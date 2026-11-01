@@ -1,0 +1,11 @@
+REGISTRO DE ALTERAÇÕES — PROJETO 2026 SCM
+Atividade: Uso de repositório de artefatos em Gestão de Configuração
+
+Registro inicial:
+- Criada a estrutura de documentação do projeto.
+- Incluída explicação sobre Gestão de Configuração de Software.
+- Incluído roteiro de comandos Git para clonagem, alteração e envio.
+- Incluídas orientações sobre colaboração e responsabilidades.
+
+Observação:
+Este arquivo é um registro documental inicial criado para o projeto. As alterações práticas realizadas localmente pelo estudante devem ser acrescentadas com suas respectivas datas após a execução.
